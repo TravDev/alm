@@ -1,1 +1,28 @@
-<h1>Hello!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Little Manna</title>
+    <meta name="description" content="A Little Manna Sourdough Ordering Site">
+    
+    <!-- Open Graph Meta Tags for Social Media Preview -->
+    <meta property="og:title" content="A Little Manna">
+    <meta property="og:description" content="A Little Manna Sourdough Ordering Site">
+    <meta property="og:image" content="https://raw.githubusercontent.com/TravDev/alm/refs/heads/main/image1.jpg"> <!-- Link to an image hosted online -->
+    <meta property="og:url" content="https://alittlemanna.com">
+
+    <!-- Twitter Card Meta Tags (for Twitter sharing) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="A Little Manna">
+    <meta name="twitter:description" content="A Little Manna Sourdough Ordering Site">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/TravDev/alm/refs/heads/main/image1.jpg">
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="3;url=https://www.hotplate.com/alittlemanna">
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <p>You're being redirected to A Little Manna ordering site. If you are not redirected, <a href="https://www.hotplate.com/alittlemanna">click here</a>.</p>
+</body>
+</html>
